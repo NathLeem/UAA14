@@ -1,0 +1,14 @@
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.csproj.AssemblyReference.cache
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.AssemblyInfoInputs.cache
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.AssemblyInfo.cs
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.csproj.CoreCompileInputs.cache
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\bin\Debug\netcoreapp3.1\ExPremiereApprochePOO.exe
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\bin\Debug\netcoreapp3.1\ExPremiereApprochePOO.deps.json
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\bin\Debug\netcoreapp3.1\ExPremiereApprochePOO.runtimeconfig.json
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\bin\Debug\netcoreapp3.1\ExPremiereApprochePOO.runtimeconfig.dev.json
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\bin\Debug\netcoreapp3.1\ExPremiereApprochePOO.dll
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\bin\Debug\netcoreapp3.1\ExPremiereApprochePOO.pdb
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.dll
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.pdb
+H:\6TI\Progra\ExGit\UAA14\ExPremiereApprochePOO\ExPremiereApprochePOO\obj\Debug\netcoreapp3.1\ExPremiereApprochePOO.genruntimeconfig.cache

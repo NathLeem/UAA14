@@ -1,0 +1,14 @@
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\bin\Debug\netcoreapp3.1\Exercice1Rappel.exe
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\bin\Debug\netcoreapp3.1\Exercice1Rappel.deps.json
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\bin\Debug\netcoreapp3.1\Exercice1Rappel.runtimeconfig.json
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\bin\Debug\netcoreapp3.1\Exercice1Rappel.runtimeconfig.dev.json
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\bin\Debug\netcoreapp3.1\Exercice1Rappel.dll
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\bin\Debug\netcoreapp3.1\Exercice1Rappel.pdb
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.csproj.AssemblyReference.cache
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.AssemblyInfoInputs.cache
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.AssemblyInfo.cs
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.csproj.CoreCompileInputs.cache
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.dll
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.pdb
+H:\6TI\Progra\ExGit\UAA14\Exercice1Rappel\Exercice1Rappel\obj\Debug\netcoreapp3.1\Exercice1Rappel.genruntimeconfig.cache
