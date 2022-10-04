@@ -1,0 +1,14 @@
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\bin\Debug\netcoreapp3.1\I1P622_LeemansNathan.exe
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\bin\Debug\netcoreapp3.1\I1P622_LeemansNathan.deps.json
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\bin\Debug\netcoreapp3.1\I1P622_LeemansNathan.runtimeconfig.json
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\bin\Debug\netcoreapp3.1\I1P622_LeemansNathan.runtimeconfig.dev.json
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\bin\Debug\netcoreapp3.1\I1P622_LeemansNathan.dll
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\bin\Debug\netcoreapp3.1\I1P622_LeemansNathan.pdb
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.csproj.AssemblyReference.cache
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.AssemblyInfoInputs.cache
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.AssemblyInfo.cs
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.csproj.CoreCompileInputs.cache
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.dll
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.pdb
+H:\6TI\Progra\ExGit\UAA14\I1P622_LeemansNathan\I1P622_LeemansNathan\obj\Debug\netcoreapp3.1\I1P622_LeemansNathan.genruntimeconfig.cache
